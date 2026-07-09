@@ -1,5 +1,5 @@
 {
-  "id": "obsidian-pdf-ingest",
+  "id": "pdf-ingest",
   "name": "PDF Ingest",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
