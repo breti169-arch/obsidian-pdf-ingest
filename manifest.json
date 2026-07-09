@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-pdf-ingest",
+  "name": "PDF Ingest",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Ergänzt ein Kontextmenü 'PDF-Ingest' für PDF-Dateien, um diese über das lokale pdf2md-Skript in strukturiertes Markdown zu konvertieren.",
+  "author": "Super-Gemmi",
+  "authorUrl": "https://super-gemmi.de/",
+  "isDesktopOnly": true
+}

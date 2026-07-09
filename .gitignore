@@ -1,0 +1,19 @@
+# --- local developer stuff ---
+node_modules/
+.venv/
+venv/
+.env
+data.json
+.git/
+.vscode/
+
+# --- Source/Build tools ---
+main.ts
+rollup.config.js
+tsconfig.json
+package.json
+package-lock.json
+
+# --- OS Spec ---
+.DS_Store
+Thumbs.db
