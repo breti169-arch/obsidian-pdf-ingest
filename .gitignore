@@ -8,11 +8,7 @@ data.json
 .vscode/
 
 # --- Source/Build tools ---
-main.ts
-rollup.config.js
-tsconfig.json
-package.json
-package-lock.json
+
 
 # --- OS Spec ---
 .DS_Store
