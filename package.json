@@ -1,6 +1,6 @@
 {
   "name": "obsidian-pdf-ingest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Obsidian PDF Ingest Plugin",
   "main": "main.js",
   "scripts": {
