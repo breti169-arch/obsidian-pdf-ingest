@@ -201,7 +201,7 @@ class PDF2MDConverter:
         import time
         for idx, chunk in enumerate(chunks):
             if len(chunks) > 1:
-                print(f"Sende Text-Häppchen {idx+1}/{len(chunks)} an LLM ({self.model})...")
+                print(f"Sende Textfragment {idx+1}/{len(chunks)} an LLM ({self.model})...")
             else:
                 print(f"Sende Text zur semantischen Textglättung an LLM ({self.model})...")
             import sys; sys.stdout.flush()
